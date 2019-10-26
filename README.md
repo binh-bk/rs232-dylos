@@ -12,5 +12,6 @@
 <p align="center">
   <img src="images/rs232-3.png"/>
 </p>
+
 ## More info
 - Have a look at this tutorial for the full implementation [link to tutorial](https://www.b-io.info/tutorials/wireless-RS232)
